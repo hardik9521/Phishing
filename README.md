@@ -1,4 +1,4 @@
-# Phishing URL Detection 
+# Multi label URL Detection 
 
 ## Table of Content
   * [Introduction](#introduction)
