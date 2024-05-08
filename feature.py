@@ -484,6 +484,7 @@ class FeatureExtraction:
                 return -1
             elif ip_match:
                 return -1
+        except:
             return 1
         
     def getFeaturesList(self):
